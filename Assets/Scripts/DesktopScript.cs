@@ -15,20 +15,4 @@ public class DesktopScript : MonoBehaviour
     {
         Desktop_View.SetActive(false);
     }
-    public void purchaseNonGMO()
-    {
-
-    }
-    public void readMoreGMO()
-    {
-        GMO_Screen.SetActive(true);
-    }
-    public void purchaseGMO()
-    {
-
-    }
-    public void goBackScreen()
-    {
-        GMO_Screen.SetActive(false);
-    }
 }

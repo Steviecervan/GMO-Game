@@ -18,11 +18,6 @@ public class ButtonActions : MonoBehaviour
         purchaseMenu.SetActive(true);
     }
 
-    public void planterPurchased()
-    {
-
-    }
-
     public void closePurchaseMenu()
     {
         purchaseMenu.SetActive(false);
